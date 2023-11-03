@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [a examination website project](https://github.com/Sviatoslav-Zubrytskyi/examination-website)
 
-- 🌱 I’m currently learning **HTML, CSS, JS**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **sviatoslavZubrytskyi@gmail.com**
 
