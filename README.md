@@ -4,8 +4,8 @@
 <p align="left" display="inline-block"> <img src="https://komarev.com/ghpvc/?username=sviatoslav-zubrytskyi&label=Profile%20views&color=0e75b6&style=flat" alt="sviatoslav-zubrytskyi" /> </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sviatoslav-zubrytskyi&show_icons=true&locale=en" alt="sviatoslav-zubrytskyi" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sviatoslav-zubrytskyi&" alt="sviatoslav-zubrytskyi" />
+  &nbsp;<img width = "100%"  align="center" src="https://github-readme-stats.vercel.app/api?username=sviatoslav-zubrytskyi&show_icons=true&locale=en" alt="sviatoslav-zubrytskyi" />
+  <img width = "100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sviatoslav-zubrytskyi&" alt="sviatoslav-zubrytskyi" />
 </p>
 
 
