@@ -15,7 +15,7 @@
 
 - ⚡ Favourite book **The Power of Habit**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: sviatoslavZubrytskyi@gmail.com</h3>
 <p align="left">
 </p>
 
