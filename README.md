@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Svi</h1>
 <h3 align="center">A passionate frontend developer from the Netherlands</h3>
 
+<p align="left" display="inline-block"> <img src="https://komarev.com/ghpvc/?username=sviatoslav-zubrytskyi&label=Profile%20views&color=0e75b6&style=flat" alt="sviatoslav-zubrytskyi" /> </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sviatoslav-zubrytskyi&show_icons=true&locale=en" alt="sviatoslav-zubrytskyi" /></p>
 
-<p align="left" display="inline-block"> <img src="https://komarev.com/ghpvc/?username=sviatoslav-zubrytskyi&label=Profile%20views&color=0e75b6&style=flat" alt="sviatoslav-zubrytskyi" /> </p>
 
 - 🔭 I’m currently working on [a examination website project](https://github.com/Sviatoslav-Zubrytskyi/examination-website)
 
