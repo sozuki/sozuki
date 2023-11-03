@@ -3,7 +3,6 @@
 
 <p>
   &nbsp;<img width = "100%"  align="center" src="https://github-readme-stats.vercel.app/api?username=sviatoslav-zubrytskyi&show_icons=true&locale=en" alt="sviatoslav-zubrytskyi" />
-  <img width = "100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sviatoslav-zubrytskyi&" alt="sviatoslav-zubrytskyi" />
 </p>
 
 
