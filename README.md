@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Svi</h1>
-<h3 align="center">A passionate frontend developer from the Netherlands</h3>
+<h3 align="center">A passionate frontend developer from Ukraine</h3>
 
 <p>
   &nbsp;<img width = "100%"  align="center" src="https://github-readme-stats.vercel.app/api?username=sviatoslav-zubrytskyi&show_icons=true&locale=en" alt="sviatoslav-zubrytskyi" />
 </p>
 
 
-- 🔭 I’m currently working on [a examination website project](https://github.com/Sviatoslav-Zubrytskyi/examination-website)
+- 🔭 English level: C1 ( IELTS certiicate)
 
 - 🌱 I’m currently learning **React**
 
