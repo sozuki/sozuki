@@ -6,11 +6,9 @@
 </p>
 
 
-- 🔭 English level: C1 ( IELTS certiicate)
+- 🔭 English level: **C1** (IELTS certiicate)
 
 - 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **sviatoslavZubrytskyi@gmail.com**
 
 - ⚡ Favourite book **The Power of Habit**
 
