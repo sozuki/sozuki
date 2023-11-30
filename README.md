@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 English level: **C1** (IELTS certiicate)
+- 🔭 English level: **C1** (IELTS certificate)
 
 - 🌱 I’m currently learning **React**
 
