@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sviatoslav-zubrytskyi&label=Profile%20views&color=0e75b6&style=flat" alt="sviatoslav-zubrytskyi" /> </p>
 
-- 📫 How to reach me **nhlsviatoslav@gmail.com**
+📫 Reach me: **nhlsviatoslav@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
