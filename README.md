@@ -19,4 +19,4 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/FAx6DnQVUAIQ39N.png" alt="css3" width="40" height="40"/></a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sviatoslav-zubrytskyi&show_icons=true&locale=en&layout=compact&theme=transparent" alt="sviatoslav-zubrytskyi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sozuki&show_icons=true&locale=en&layout=compact&theme=transparent" alt="sviatoslav-zubrytskyi" /></p>
