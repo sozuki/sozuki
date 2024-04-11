@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sviatoslav</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sviatoslav-zubrytskyi&label=Profile%20views&color=0e75b6&style=flat" alt="sviatoslav-zubrytskyi" /> </p>
+[//]: # (<p align="center"> <img src="https://komarev.com/ghpvc/?username=sviatoslav-zubrytskyi&label=Profile%20views&color=0e75b6&style=flat" alt="sviatoslav-zubrytskyi" /> </p>)
 
 📫 Reach me: **nhlsviatoslav@gmail.com**
 
